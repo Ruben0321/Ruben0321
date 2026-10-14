@@ -1,4 +1,4 @@
-## Hi, I'm Ruben
+## I'm Ruv
 
 I'm getting into digital forensics and incident response (DFIR). Right now I'm working through Windows artifacts, memory and disk analysis, and log analysis, and I keep my notes, labs and scripts in [dfir-lab](https://github.com/Ruben0321/dfir-lab).
 
